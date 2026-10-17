@@ -1,0 +1,5 @@
+connexion/
+*.sql
+.env
+vendor/
+node_modules/ he4i chni
